@@ -1,16 +1,8 @@
 # Wireless Monitoring, WLAN Security & Netsh
 
-A hands-on lab exploring wireless network security for Data Security Concepts (CIT245)
-at T.A. Marryshow Community College.
+A hands-on exploration of wireless network security, covering scanning and analysing nearby Wi-Fi networks with NirSoft WifiInfoView and Vistumbler, configuring a wireless router securely using the TRENDnet online emulator, and managing Wi-Fi connections and generating network reports using Windows netsh commands.
 
-## Overview
-
-This lab covers four key areas of wireless network security:
-
-- Scanning and analysing nearby Wi-Fi networks using NirSoft WifiInfoView
-- Viewing detailed WLAN security information using Vistumbler
-- Configuring a wireless router securely using the TRENDnet online emulator
-- Managing Wi-Fi connections and generating network reports using Windows netsh commands
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/f2d04f53-772a-47cb-a6a5-bbc7a681c1ba" />
 
 ## Lab Activities
 
@@ -114,6 +106,4 @@ Opened Windows Terminal (Admin) and used the following netsh wlan commands:
 - Tools: Web browser, NirSoft WifiInfoView, Vistumbler, TRENDnet Emulator,
   Windows Terminal
 
-## License
-
-<strong>[&copy; 2026 Ahndre Walters](https://github.com/AhndreWalters/Wireless-Monitoring-WLAN-Security-and-Netsh/blob/main/LICENSE) · Wireless Monitoring, WLAN Security & Netsh · TAMCC Dat Security Concepts Course · College Course Assignment</strong>
+<strong>[&copy; 2026 Ahndre Walters](https://github.com/AhndreWalters/Wireless-Monitoring-WLAN-Security-and-Netsh/blob/main/LICENSE)</strong>
